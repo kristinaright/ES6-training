@@ -1,0 +1,21 @@
+{
+  "name": "es6-training",
+  "version": "0.0.1",
+  "dependencies": {},
+  "description": "this is my ES6 and node js training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinaright/ES6-training.git"
+  },
+  "author": "Kristina Right <k.kristina.sdev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristinaright/ES6-training/issues"
+  },
+  "homepage": "https://github.com/kristinaright/ES6-training#readme"
+}
